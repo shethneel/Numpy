@@ -42,5 +42,3 @@ Here, you will find everything about **python packages** and **ways to install t
 21. Merging Arrays
 22. Splitting merged array
 23. Automation using Numpy
-
-# If you like the content, follow my github account and leave one star on my repositry.
