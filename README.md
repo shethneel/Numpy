@@ -9,7 +9,7 @@ NumPy is an open source Python library that’s used in almost every field of sc
 
 pip install numpy
 
-If you want to know more about pip and it's usage : [click me](https://pypi.org) <b>
+If you want to know more about pip and it's usage : [click me](https://pypi.org) </b>
 Here, you will find everything about **pyton packages** and **ways to install them**.
 
 ### Here are some fundamentals for DATA PREPROCESSING such as :
