@@ -1,7 +1,17 @@
 # Pandas
 
+NumPy is an open source Python library that’s used in almost every field of science and engineering. It’s the universal standard for working with numerical data in Python, and it’s at the core of the scientific Python and PyData ecosystems.
+
 ### Numpy is one of the best libraries provided by python. 
 ### We can do multiple operations with that.
+
+### Numpy Installation :
+
+pip install numpy
+
+If you want to know more about pip and it's usage : [ click me ] (https://pypi.org)
+Here, you will find everything about **pyton packages** and **ways to install them**.
+
 ### Here are some fundamentals for DATA PREPROCESSING such as :
 
 1. List and Array conversion
